@@ -5,7 +5,7 @@ Dominos API for ordering pizza with node. Dominos.com currently does not have a 
 Must install node fetch as a Dev Dependency. `npm i node-fetch`
 
 ### Example Usage
-```
+```node
 const API_URL = "https://order.dominos.com/power";
 async function getStoresNearAddress(
   orderType,

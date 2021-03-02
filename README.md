@@ -2,7 +2,7 @@
 Dominos API for ordering pizza with node. Dominos.com currently does not have a public API.
 
 ## Install 
-npm install
+Must install node fetch as a Dev Dependency. `npm i node-fetch`
 
 ### Example Usage
 ```

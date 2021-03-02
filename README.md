@@ -4,6 +4,7 @@ Dominos API for ordering pizza with node. Dominos.com currently does not have a 
 ## Install 
 npm install
 
+### Example Usage
 ```
 const API_URL = "https://order.dominos.com/power";
 async function getStoresNearAddress(
